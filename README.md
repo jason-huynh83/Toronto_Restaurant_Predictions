@@ -8,6 +8,13 @@
   - Decision Tree Classifier
   - Random Forest Classifier
   - Logistic Regression
+ 
+# Files
+- [Exploratory Data Analysis.ipynb]((https://github.com/jason-huynh83/Toronto_Restaurant_Predictions/blob/master/Exploratory%20Data%20Analysis.ipynb)): Exploratory Data Analysis
+- [Model Building.ipynb](https://github.com/jason-huynh83/Toronto_Restaurant_Predictions/blob/master/Model%20Building.ipynb): Model Building
+- [data_clean.py](https://github.com/jason-huynh83/Toronto_Restaurant_Predictions/blob/master/data_clean.py): Python file for data cleaning
+-[yelp_scraper.py](https://github.com/jason-huynh83/Toronto_Restaurant_Predictions/blob/master/yelp_scraper.py): Python file for scraping 1000 restaurants on yelp
+- [yelp_foods.csv](https://github.com/jason-huynh83/Toronto_Restaurant_Predictions/blob/master/yelp_foods.csv): csv files for yelp restaurant data
 
 # Code and Resources Used
 - Python: Version 3.8
@@ -47,7 +54,7 @@ This part of the project took a great deal of time as there was a lot of cleanin
 - In order to account for this missing data, the price will be determined by the average price of restaurants in the given neighbourhood
 
 # Exploratory Data Analysis (EDA)
-Developped many visuals that helped understand and explore the data, a full EDA can be found [here](https://github.com/jason-huynh83/Toronto_Restaurant_Predictions/blob/master/Exploratory%20Data%20Analysis.ipynb)below are some highlights:
+Developped many visuals that helped understand and explore the data, a full EDA can be found [here](https://github.com/jason-huynh83/Toronto_Restaurant_Predictions/blob/master/Exploratory%20Data%20Analysis.ipynb) below are some highlights:
 ![](https://github.com/jason-huynh83/Toronto_Restaurant_Predictions/blob/master/Images/graphs.PNG)
 ![](https://github.com/jason-huynh83/Toronto_Restaurant_Predictions/blob/master/Images/nbh.PNG)
 
@@ -59,7 +66,11 @@ For this model, we will use the following machine learning algorithms:
 - Logistic Regression
 
 # Model Evaluation
-
+The F1-score for each machine learning algorithm is shown below:
+  - **K-Nearest Neighbours:** 0.53 (53%)
+  - **Decision Tree Classifier:** 0.7 (70%)
+  - **Random Forest Classifier:** 0.75 (75%)
+  - **Logistic Regression:** 0.5 (50%)
 # Conclusion
 - In conclusion, the random forest classification performed the best at an average F1 score of 0.75 or 75%. 
 - From the classification report we can see that the Random Forest Classifier partnered with the SMOTETomek imbalanced learning performed the best. 
@@ -70,3 +81,5 @@ For this model, we will use the following machine learning algorithms:
   - In our model, the precision score is separated by the price ranges (1-4) and each precision score is represented respectively
   - The recall score tells us, of all the restaurants that gave it's price listings, what fraction did we correctly predict the price using our model?
   - In other words, it is the True Positives/(True Positives + False Negatives)
+# Future Work
+- In the near future, I hope to productionize this model on a Flask API. 
