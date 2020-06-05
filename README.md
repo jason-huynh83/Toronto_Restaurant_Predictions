@@ -16,7 +16,7 @@
 
 - [data_clean.py](https://github.com/jason-huynh83/Toronto_Restaurant_Predictions/blob/master/data_clean.py): Python file for data cleaning
 
--[yelp_scraper.py](https://github.com/jason-huynh83/Toronto_Restaurant_Predictions/blob/master/yelp_scraper.py): Python file for scraping 1000 restaurants on yelp
+- [yelp_scraper.py](https://github.com/jason-huynh83/Toronto_Restaurant_Predictions/blob/master/yelp_scraper.py): Python file for scraping 1000 restaurants on yelp
 
 - [yelp_foods.csv](https://github.com/jason-huynh83/Toronto_Restaurant_Predictions/blob/master/yelp_foods.csv): csv files for yelp restaurant data
 
