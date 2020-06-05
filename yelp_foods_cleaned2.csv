@@ -1,0 +1,926 @@
+Name,# of Reviews,Rating,Price,Cuisine,Neighbourhood,Price_,New_Price
+Panera Bread,82,3.0,2,American,Unionville,,2.0
+Pai Northern Thai Kitchen,2862,4.5,2,Asian,Entertainment District,2.4727272727272727,2.0
+Beefing with 7,17,4.5,0,Asian,Willowdale,2.0,2.0
+Mira,218,4.5,2,European,Entertainment District,2.4727272727272727,2.0
+Richmond Station,764,4.5,3,American,Downtown Core,2.1016949152542375,3.0
+Gusto 101,971,4.0,2,European,Entertainment District,2.4727272727272727,2.0
+Khao San Road,1549,4.0,2,Asian,Entertainment District,2.4727272727272727,2.0
+KINKA IZAKAYA ORIGINAL,1606,4.0,2,Asian,Downtown Core,2.1016949152542375,2.0
+Sabai Sabai Kitchen and Bar,378,4.0,2,Asian,Church-Wellesley Village,2.0,2.0
+Byblos,787,4.5,3,Middle Eastern,Entertainment District,2.4727272727272727,3.0
+Uncle Ray’s Food & Liquor,13,5.0,0,American,St. Lawrence,2.0,2.0
+Sabai Sabai Kitchen and Bar,280,4.0,2,Asian,Downtown Core,2.1016949152542375,2.0
+Juicy Dumpling,472,4.0,1,Asian,Chinatown,1.7727272727272727,1.0
+Seven Lives Tacos y Mariscos,1300,4.5,1,Mexican,Kensington Market,1.7777777777777777,1.0
+Chubby’s Jamaican Kitchen,243,4.0,2,Carribean,Entertainment District,2.4727272727272727,2.0
+Mabu Generation,16,4.5,2,Asian,Downtown Core,2.1016949152542375,2.0
+The Elm Tree Restaurant,267,4.5,2,Middle Eastern,Downtown Core,2.1016949152542375,2.0
+Katsuya,403,4.5,2,Asian,Downtown Core,2.1016949152542375,2.0
+Descendant Detroit Style Pizza,325,4.5,2,American,Leslieville,2.0,2.0
+Boukan,3,4.5,0,American,Upper Beach,2.0,2.0
+PŌPA,24,4.0,3,Asian,Bayview Village,,3.0
+Loch & Quay,62,4.0,2,American,Harbourfront,2.2222222222222223,2.0
+Otto’s Bierhalle,173,4.0,2,European,West Queen West,2.125,2.0
+Smoque N’ Bones,373,4.0,2,American,Niagara,2.3333333333333335,2.0
+GB Hand-pulled Noodles,527,4.0,2,Asian,Downtown Core,2.1016949152542375,2.0
+Agio,171,4.5,2,European,Corso Italia,2.1666666666666665,2.0
+The Oxley,139,4.0,2,American,Yorkville,2.7222222222222223,2.0
+Panera Bread,82,3.0,2,American,Unionville,,2.0
+Loch & Quay,62,4.0,2,American,Harbourfront,2.2222222222222223,2.0
+Lamesa Filipino Kitchen,349,4.0,2,Asian,Corso Italia,2.1666666666666665,2.0
+Eataly,168,3.5,2,European,Yorkville,2.7222222222222223,2.0
+Khmer Thai Restaurant,132,4.0,2,Asian,Corso Italia,2.1666666666666665,2.0
+Budapest Restaurant,57,4.5,2,European,Upper Beach,2.0,2.0
+Tibet Kitchen,243,4.5,2,Asian,Parkdale,1.7692307692307692,2.0
+Oddseoul,306,4.0,2,Asian,Ossington Strip,2.217391304347826,2.0
+Antler Kitchen & Bar,255,4.5,3,American,Little Portugal,2.4285714285714284,3.0
+The Oxley,139,4.0,2,American,Yorkville,2.7222222222222223,2.0
+Boonsik,5,4.0,0,Asian,Bickford Park,2.2857142857142856,2.0
+Her Father’s Cider Bar & Kitchen,154,4.5,2,American,Entertainment District,2.4727272727272727,2.0
+Himalayan Kitchen,112,4.5,2,Asian,Parkdale,1.7692307692307692,2.0
+Pantheon Restaurant,303,4.0,2,European,Greektown,1.8571428571428572,2.0
+Koh Lipe Thai Kitchen,176,4.0,2,Asian,Downtown Core,2.1016949152542375,2.0
+Ramen Isshin,699,4.5,2,Asian,Kensington Market,1.7777777777777777,2.0
+Chica’s Nashville Hot Chicken,93,4.5,2,American,The Junction,2.0,2.0
+Buca,420,4.0,3,European,Entertainment District,2.4727272727272727,3.0
+Lee Restaurant,627,4.0,3,Asian,Entertainment District,2.4727272727272727,3.0
+Pinky’s Ca Phe,147,4.0,2,Asian,Palmerston,,2.0
+Pho Tien Thanh,396,4.0,1,Asian,Ossington Strip,2.217391304347826,1.0
+Moliceiro Restaurant,64,4.5,2,European,Ossington Strip,2.217391304347826,2.0
+The Stockyards,719,4.0,2,American,Wychwood,1.9,2.0
+Mildred’s Temple Kitchen,892,4.0,2,American,Liberty Village,,2.0
+Okonomi House Restaurant,269,4.0,1,Asian,Downtown Core,2.1016949152542375,1.0
+Bar Isabel,415,4.0,3,European,Bickford Park,2.2857142857142856,3.0
+Panera Bread,82,3.0,2,American,Unionville,,2.0
+I’ll Be Seeing You,49,5.0,2,American,Riverdale,2.0,2.0
+Trattoria Nervosa,333,4.0,2,European,Yorkville,2.7222222222222223,2.0
+Playa Cabana,429,4.0,2,Mexican,The Annex,2.3703703703703702,2.0
+Aloette,228,4.5,3,European,Queen Street West,2.25,3.0
+The Hole In the Wall,153,4.5,2,American,The Junction,2.0,2.0
+Pomegranate Restaurant,185,4.0,2,Middle Eastern,Downtown,1.8,2.0
+Islas Filipino BBQ and Bar,61,4.5,0,Asian,Parkdale,1.7692307692307692,2.0
+Hanmoto,207,4.0,2,Asian,Little Portugal,2.4285714285714284,2.0
+Tabule Middle Eastern Cuisine,183,4.0,2,Middle Eastern,Riverdale,2.0,2.0
+Yin Ji Chang Fen,8,3.5,0,Asian,Chinatown,1.7727272727272727,2.0
+Sugo,170,4.5,2,European,Bloordale Village,1.6,2.0
+La Bella Managua,222,4.5,2,American,Christie Pits,,2.0
+Aanch Modernistic Indian Cuisine,157,4.5,2,Asian,Entertainment District,2.4727272727272727,2.0
+Korean Village Restaurant,331,4.0,2,Asian,Koreatown,1.85,2.0
+Swatow Restaurant,394,4.0,2,Asian,Chinatown,1.7727272727272727,2.0
+Momo Hut & Gardens,81,4.5,2,Asian,Greektown,1.8571428571428572,2.0
+Si Lom Thai Bistro,163,4.0,2,Asian,Church-Wellesley Village,2.0,2.0
+The MoMo House,20,4.5,0,Asian,Parkdale,1.7692307692307692,2.0
+Beerbistro,642,4.0,2,American,Downtown Core,2.1016949152542375,2.0
+Sala Modern Thai Kitchen & Bar,145,4.5,2,Asian,The Danforth,1.9285714285714286,2.0
+Wvrst,790,4.0,2,European,Entertainment District,2.4727272727272727,2.0
+Tokyo Hot Fried Chicken,18,4.0,0,American,None,,
+Isaan Der,82,4.0,2,Asian,The Junction,2.0,2.0
+Mezes,205,4.0,2,European,Greektown,1.8571428571428572,2.0
+Campechano Taquería,157,4.0,2,Mexican,Financial District,,2.0
+Mogouyan,41,4.0,2,Asian,Yorkville,2.7222222222222223,2.0
+Nodo Restaurant,172,4.0,2,European,The Junction,2.0,2.0
+Panera Bread,82,3.0,2,American,Unionville,,2.0
+El Venezolano,17,4.5,0,South American,Greektown,1.8571428571428572,2.0
+Tabule Restaurant,253,4.0,2,Middle Eastern,Mount Pleasant and Davisville,2.2857142857142856,2.0
+Nodo Restaurant,50,4.5,2,European,Wychwood,1.9,2.0
+Cumin Kitchen - Fine Indian Cuisine,43,4.5,0,Asian,The Danforth,1.9285714285714286,2.0
+SugarKane,14,4.5,0,Carribean,Greektown,1.8571428571428572,2.0
+Imm Thai Kitchen,102,4.5,2,Asian,Little Italy,2.272727272727273,2.0
+Kovalsky Restaurant,57,4.5,2,European,Etobicoke,2.0,2.0
+Jin Dal Lae,73,4.5,2,Asian,Koreatown,1.85,2.0
+Onnki Donburi,161,4.0,2,Asian,Church-Wellesley Village,2.0,2.0
+Carmen,152,4.0,3,European,West Queen West,2.125,3.0
+Lao Thai Restaurant,74,4.0,2,Asian,Beaconsfield Village,2.2857142857142856,2.0
+Tokyo Kitchen,137,4.0,2,Asian,Church-Wellesley Village,2.0,2.0
+Manpuku Japanese Eatery,470,4.0,1,Asian,Downtown Core,2.1016949152542375,1.0
+Patria,477,4.0,3,European,Entertainment District,2.4727272727272727,3.0
+Nuit Social,208,4.5,2,American,Beaconsfield Village,2.2857142857142856,2.0
+Raku,213,4.0,2,Asian,Alexandra Park,1.7857142857142858,2.0
+BuaBua Thai,34,4.0,2,Asian,Mount Pleasant and Davisville,2.2857142857142856,2.0
+La Paella,29,4.0,0,European,Leslieville,2.0,2.0
+DaiLo,272,4.0,3,Asian,Little Italy,2.272727272727273,3.0
+Jollibee,269,3.5,2,Asian,Scarborough,1.7777777777777777,2.0
+Fat Pasha,187,4.0,3,Middle Eastern,The Annex,2.3703703703703702,3.0
+Yupdduk Bloor,21,4.0,0,Asian,Koreatown,1.85,2.0
+Zeal Burgers,115,5.0,2,American,North York,,2.0
+Mayrik,56,4.5,3,Middle Eastern,Mount Pleasant and Davisville,2.2857142857142856,3.0
+The Hogtown Vegan,402,4.0,2,American,Dovercourt,2.0,2.0
+El Catrin Destileria,904,3.5,3,Mexican,Distillery District,,3.0
+Panera Bread,82,3.0,2,American,Unionville,,2.0
+Casa Fuego,32,4.5,0,American,Entertainment District,2.4727272727272727,2.0
+Rio 40 Restaurant,51,4.0,2,South American,Corso Italia,2.1666666666666665,2.0
+Daldongnae,22,4.5,3,Asian,Koreatown,1.85,3.0
+Koricancha Restaurant,18,4.5,2,European,York,2.0,2.0
+Té,95,4.0,2,Asian,Ossington Strip,2.217391304347826,2.0
+Tacos El Asador,287,4.0,1,Mexican,Koreatown,1.85,1.0
+Omai Restaurant,93,4.0,2,Asian,Downtown Core,2.1016949152542375,2.0
+Café Polonez,244,4.5,2,European,Roncesvalles,1.8333333333333333,2.0
+Yummy Korean Food Restaurant,240,4.0,1,Asian,Koreatown,1.85,1.0
+The Irv Gastro Pub,114,4.5,2,American,Cabbage Town,,2.0
+Esto Es Colombia,3,5.0,0,South American,Downtown Core,2.1016949152542375,2.0
+Madrina Bar y Tapas,86,4.0,2,American,Distillery District,,2.0
+Mamakas Taverna,185,4.0,3,European,Ossington Strip,2.217391304347826,3.0
+La Cubana,213,3.5,2,South American,Roncesvalles,1.8333333333333333,2.0
+El Nahual Tacos,117,4.5,1,Mexican,The Annex,2.3703703703703702,1.0
+Pearl Diver,573,4.0,2,American,Corktown,2.2857142857142856,2.0
+Ikkousha Ramen,207,4.5,2,Asian,Queen Street West,2.25,2.0
+Lee Chen Asian Bistro,169,4.0,2,Asian,Entertainment District,2.4727272727272727,2.0
+Little Sister,189,3.5,2,Asian,Mount Pleasant and Davisville,2.2857142857142856,2.0
+Bobbie Sue’s Mac & Cheese,121,4.0,1,Other,Ossington Strip,2.217391304347826,1.0
+Miku,770,4.0,3,Asian,Harbourfront,2.2222222222222223,3.0
+Joso’s,151,4.5,3,American,Yorkville,2.7222222222222223,3.0
+Sukho Thai,479,3.5,2,Asian,St. Lawrence,2.0,2.0
+King Taps,290,4.0,2,American,Financial District,,2.0
+Seor Ak San,291,4.0,2,Asian,Chinatown,1.7727272727272727,2.0
+Cafe Landwer,313,4.0,2,American,Financial District,,2.0
+Buk Chang Dong Soon Tofu,447,4.0,2,Asian,Koreatown,1.85,2.0
+Queen of Persia,34,4.5,3,Middle Eastern,Corso Italia,2.1666666666666665,3.0
+Panera Bread,82,3.0,2,American,Unionville,,2.0
+Nom Nom Nom Poutine,107,4.5,1,American,Alexandra Park,1.7857142857142858,1.0
+Barberian’s Steak House,272,4.0,3,American,Downtown Core,2.1016949152542375,3.0
+Chris Jerk Caribbean Bistro,328,4.5,2,Carribean,Scarborough,1.7777777777777777,2.0
+Ooshee Mediterranean Oven,18,5.0,0,Middle Eastern,Downtown Core,2.1016949152542375,2.0
+CRU,32,4.0,0,American,Downtown Core,2.1016949152542375,2.0
+Trattoria Taverniti,142,4.0,2,European,Little Italy,2.272727272727273,2.0
+Leela Indian Food Bar,80,4.5,2,Asian,The Junction,2.0,2.0
+Zezafoun Syrian Cuisine,84,4.5,2,Middle Eastern,Mount Pleasant and Davisville,2.2857142857142856,2.0
+Indian Roti House,197,4.0,2,Asian,Harbourfront,2.2222222222222223,2.0
+Sea Witch Fish and Chips,115,4.0,2,American,Wychwood,1.9,2.0
+Pho Linh,216,4.0,1,Asian,Brockton Village,1.8333333333333333,1.0
+Fishman Lobster Clubhouse Restaurant,912,4.0,3,Asian,Milliken,,3.0
+Mr. K,6,3.5,0,American,Willowdale,2.0,2.0
+Dee,29,4.0,0,Asian,Mount Pleasant and Davisville,2.2857142857142856,2.0
+Le Baratin,96,4.5,2,European,Brockton Village,1.8333333333333333,2.0
+Enoteca Sociale,302,4.0,3,European,Little Portugal,2.4285714285714284,3.0
+Hancook Cheese Dakgalbi,71,4.0,2,Asian,Koreatown,1.85,2.0
+La Cubana,43,4.5,2,South American,Leslieville,2.0,2.0
+Kiin,194,4.0,3,Asian,Entertainment District,2.4727272727272727,3.0
+Bar Sybanne,82,4.5,3,Middle Eastern,Ossington Strip,2.217391304347826,3.0
+Terroni,661,3.5,2,European,Downtown Core,2.1016949152542375,2.0
+Alma,14,3.5,0,American,Bloordale Village,1.6,2.0
+Farm’r Eatery & Catering,98,4.5,2,American,St. Lawrence,2.0,2.0
+Kay Pacha,46,4.0,3,European,Corso Italia,2.1666666666666665,3.0
+Plan B,20,5.0,0,African,Etobicoke,2.0,2.0
+Papyrus,22,4.5,2,African,Riverdale,2.0,2.0
+Ruby Watchco,249,4.0,3,American,Riverdale,2.0,3.0
+Loose Moose,410,3.5,2,American,Downtown Core,2.1016949152542375,2.0
+Otto’s Berlin Döner,254,4.0,2,European,Kensington Market,1.7777777777777777,2.0
+Panera Bread,82,3.0,2,American,Unionville,,2.0
+7 Numbers Restaurant,102,4.0,2,European,York,2.0,2.0
+Khau Gully,79,4.0,2,Asian,Mount Pleasant and Davisville,2.2857142857142856,2.0
+Simone’s Caribbean Restaurant,122,4.5,2,Carribean,Greektown,1.8571428571428572,2.0
+Nana,187,3.5,2,Asian,Niagara,2.3333333333333335,2.0
+Pizzeria Libretto,537,4.0,2,American,Ossington Strip,2.217391304347826,2.0
+Hotmess Tex Mex,25,4.0,2,Mexican,Little Italy,2.272727272727273,2.0
+416 Snack Bar,320,4.0,2,European,Alexandra Park,1.7857142857142858,2.0
+Rasta Pasta,318,4.0,1,Carribean,Kensington Market,1.7777777777777777,1.0
+Byblos Uptown,46,4.0,0,Middle Eastern,Yonge and Eglinton,2.25,2.0
+Mr.Tonkatsu,189,4.0,2,Asian,The Annex,2.3703703703703702,2.0
+Yummy Yummy Dumplings,261,4.0,2,Asian,Downtown Core,2.1016949152542375,2.0
+Alo Restaurant,287,4.5,4,American,Queen Street West,2.25,4.0
+El Trompo Taco Bar,333,4.0,2,Mexican,Kensington Market,1.7777777777777777,2.0
+Saku Sushi,481,4.0,2,American,Alexandra Park,1.7857142857142858,2.0
+Mengrai Thai,274,4.0,2,Asian,Corktown,2.2857142857142856,2.0
+Napoli Centrale,59,4.5,2,European,Seaton Village,,2.0
+Le Plato,6,4.0,0,African,Greektown,1.8571428571428572,2.0
+Guu Izakaya Toronto,126,4.0,2,Asian,Parkdale,1.7692307692307692,2.0
+Nando’s,59,3.5,2,African,Niagara,2.3333333333333335,2.0
+Kingyo Izakaya,329,4.0,2,Asian,Cabbagetown,2.2,2.0
+The Burger’s Priest,68,3.5,2,American,Downtown Core,2.1016949152542375,2.0
+The Caledonian,138,4.5,2,American,Dufferin Grove,2.5,2.0
+Madras Masala,145,4.0,2,Asian,Christie Pits,,2.0
+Canoe,668,4.0,4,American,Financial District,,4.0
+Athens Restaurant,82,4.0,2,European,Greektown,1.8571428571428572,2.0
+Lucy Ethiopian Kitchen,58,4.5,2,African,The Danforth,1.9285714285714286,2.0
+Panera Bread,82,3.0,2,American,Unionville,,2.0
+Pizzeria Libretto,537,4.0,2,American,Ossington Strip,2.217391304347826,2.0
+Nomads Restobar,12,4.5,0,American,Riverdale,2.0,2.0
+Frankie’s,23,3.5,0,European,Leslieville,2.0,2.0
+Good Hombres,68,4.5,0,Mexican,Little Italy,2.272727272727273,2.0
+La Chingada,43,4.0,0,Mexican,Little Portugal,2.4285714285714284,2.0
+La Carnita,379,3.5,2,Mexican,Entertainment District,2.4727272727272727,2.0
+416 Snack Bar,320,4.0,2,European,Alexandra Park,1.7857142857142858,2.0
+Alo Restaurant,287,4.5,4,American,Queen Street West,2.25,4.0
+ZIBA Berlin Döner,35,4.0,2,Middle Eastern,Leslieville,2.0,2.0
+Beast Restaurant,406,4.0,2,American,Niagara,2.3333333333333335,2.0
+Gordo EX Cafe,37,4.0,2,South American,Seaton Village,,2.0
+Yasu,357,4.5,4,Asian,Entertainment District,2.4727272727272727,4.0
+Jatujak,350,4.0,2,Other,Scarborough,1.7777777777777777,2.0
+Demen Bistro,41,4.5,2,Asian,Alexandra Park,1.7857142857142858,2.0
+Ha Gow Dim Sum House,101,4.0,1,Asian,The Danforth,1.9285714285714286,1.0
+Thindi,11,5.0,0,Asian,Ryerson,1.8,2.0
+Guu Izakaya Toronto,126,4.0,2,Asian,Parkdale,1.7692307692307692,2.0
+CANO Restaurant,38,4.5,2,European,Corso Italia,2.1666666666666665,2.0
+Honest Weight,123,4.5,2,American,The Junction,2.0,2.0
+Rickshaw Bar,105,4.0,2,European,Niagara,2.3333333333333335,2.0
+VOS Restaurante Argentino,24,4.5,0,South American,Dufferin Grove,2.5,2.0
+32 Chicken St.,25,4.5,2,Asian,Kensington Market,1.7777777777777777,2.0
+Zaad,36,4.0,2,Middle Eastern,The Annex,2.3703703703703702,2.0
+The Annex Food Hall,40,4.0,2,American,The Annex,2.3703703703703702,2.0
+The Daily Dumpling Wonton Co,30,4.0,0,Asian,Bickford Park,2.2857142857142856,2.0
+Aztec’s Mine,88,4.0,2,Mexican,High Park,,2.0
+Oyster Boy,179,4.0,3,American,West Queen West,2.125,3.0
+Panera Bread,82,3.0,2,American,Unionville,,2.0
+Super Point,92,3.5,2,American,Ossington Strip,2.217391304347826,2.0
+Uncle Mikey’s,42,4.5,2,Asian,Brockton Village,1.8333333333333333,2.0
+Canoe,668,4.0,4,American,Financial District,,4.0
+Hotopia Downtown,21,3.5,0,Asian,Church-Wellesley Village,2.0,2.0
+Beiteddine Lebanese Restaurant,17,4.0,0,Middle Eastern,Greektown,1.8571428571428572,2.0
+Mymy Chicken,209,4.0,2,American,Willowdale,2.0,2.0
+Gyukatsu Kyoto Katsugyu,83,3.5,2,Asian,Ryerson,1.8,2.0
+DeSotos Eatery,68,4.0,2,American,Corso Italia,2.1666666666666665,2.0
+Sash,8,4.5,0,American,Summer Hill,1.6666666666666667,2.0
+Saigon Lotus,178,4.5,2,Asian,Chinatown,1.7727272727272727,2.0
+Dandylion Restaurant,81,4.0,3,American,Beaconsfield Village,2.2857142857142856,3.0
+Grazie Ristorante,416,4.0,2,European,Yonge and Eglinton,2.25,2.0
+Planta Yorkville,426,4.0,2,European,Yorkville,2.7222222222222223,2.0
+Daddyo’s Pasta & Salads,96,4.0,2,European,University of Toronto,,2.0
+La Carnita,488,3.5,2,Mexican,Little Italy,2.272727272727273,2.0
+Campo,48,4.0,2,European,North York,,2.0
+Nobuya,190,4.0,2,Asian,Etobicoke,2.0,2.0
+Epicure City BOM,153,4.0,2,Asian,Downtown Core,2.1016949152542375,2.0
+Los Arrieros,31,4.0,2,South American,North York,,2.0
+Sabor Brasil,18,4.0,2,South American,Corso Italia,2.1666666666666665,2.0
+King’s Tacos,62,4.0,2,Mexican,Corso Italia,2.1666666666666665,2.0
+Giulietta,83,4.0,3,European,Dufferin Grove,2.5,3.0
+Knuckle Sandwich,102,4.0,2,American,East York,1.625,2.0
+Jules Bistro,19,4.0,0,American,Leslieville,2.0,2.0
+The Real Jerk,159,3.5,2,Carribean,Riverdale,2.0,2.0
+Chadwick’s,196,4.0,2,American,The Annex,2.3703703703703702,2.0
+Camel Restaurant,2,5.0,0,Middle Eastern,Greektown,1.8571428571428572,2.0
+Stelvio,112,4.0,2,European,Trinity Bellwoods,2.1666666666666665,2.0
+Panera Bread,82,3.0,2,American,Unionville,,2.0
+Bar Fancy,118,4.0,2,American,Beaconsfield Village,2.2857142857142856,2.0
+Piano Piano,246,3.5,3,European,Entertainment District,2.4727272727272727,3.0
+Chung Chun Rice Hotdog,52,4.0,0,American,Willowdale,2.0,2.0
+Greenwood Smokehouse BBQ,143,3.5,2,American,Greektown,1.8571428571428572,2.0
+Wow Sushi,410,4.0,2,American,Downtown Core,2.1016949152542375,2.0
+Bloom Restaurant,62,4.5,3,American,Swansea,2.5,3.0
+Local 1794,106,4.0,2,American,The Danforth,1.9285714285714286,2.0
+Loga’s Corner,125,4.5,1,Asian,Parkdale,1.7692307692307692,1.0
+Scaramouche Restaurant Pasta Bar & Grill,288,4.5,4,European,South Hill,,4.0
+Country Style Hungarian Restaurant,115,3.5,2,European,The Annex,2.3703703703703702,2.0
+Sakawa Coffee & Japanese Restaurant,104,4.5,2,Asian,Greektown,1.8571428571428572,2.0
+Double D’s,95,3.0,2,American,Leslieville,2.0,2.0
+Luna Junction,18,4.5,0,European,The Junction,2.0,2.0
+Figs and Olives Kitchen,56,4.5,2,Middle Eastern,Downtown Core,2.1016949152542375,2.0
+Lake Inez,87,4.5,3,American,Leslieville,2.0,3.0
+Cafe Oro Di Napoli,37,4.5,2,American,Corktown,2.2857142857142856,2.0
+The SOS,44,4.0,2,American,Entertainment District,2.4727272727272727,2.0
+La Palma,166,3.5,3,European,Trinity Bellwoods,2.1666666666666665,3.0
+Rodney’s Oyster House,374,4.0,3,American,Entertainment District,2.4727272727272727,3.0
+Hokkaido Ramen Santouka,847,4.0,2,Asian,Ryerson,1.8,2.0
+Yukashi Japanese Cuisine,26,4.5,4,Asian,Mount Pleasant and Davisville,2.2857142857142856,4.0
+The Burger’s Priest,373,4.0,2,American,Queen Street West,2.25,2.0
+Museum Tavern,220,3.5,2,American,The Annex,2.3703703703703702,2.0
+Nando’s Flame Grilled Chicken,209,3.5,2,European,Discovery District,,2.0
+Good Fork,334,4.0,2,American,Brockton Village,1.8333333333333333,2.0
+Cluck Clucks,262,4.0,2,American,St. Lawrence,2.0,2.0
+Smith Bros.,344,4.0,2,American,Scarborough,1.7777777777777777,2.0
+Panera Bread,82,3.0,2,American,Unionville,,2.0
+PG Clucks,154,4.5,1,American,Bickford Park,2.2857142857142856,1.0
+Bellwoods Brewery,335,4.0,2,American,Ossington Strip,2.217391304347826,2.0
+Ramen Isshin,41,4.5,2,Asian,Queen Street West,2.25,2.0
+Darvish Restaurant,97,4.0,2,Middle Eastern,Downtown Core,2.1016949152542375,2.0
+Hendriks Restaurant & Bar,86,4.0,3,American,Downtown Core,2.1016949152542375,3.0
+Makan,1,5.0,0,Asian,Queen Street West,2.25,2.0
+Churrasqueira Martins,52,3.5,2,European,Financial District,,2.0
+George,258,4.5,4,American,Corktown,2.2857142857142856,4.0
+Kokyo Japanese Restaurant,47,4.0,2,Asian,Financial District,,2.0
+BlueBlood Steakhouse,97,3.5,4,American,Casa Loma,,4.0
+Farmhouse Tavern,243,3.5,2,American,The Junction,2.0,2.0
+Skippa,76,4.0,4,Asian,Bickford Park,2.2857142857142856,4.0
+Batch,155,3.5,2,American,Downtown Core,2.1016949152542375,2.0
+Rol San,739,3.0,2,Asian,Chinatown,1.7727272727272727,2.0
+Lahore Tikka House,497,3.5,2,Middle Eastern,Leslieville,2.0,2.0
+The Ace,183,4.0,2,Other,Roncesvalles,1.8333333333333333,2.0
+Steam Whistle Biergarten,5,4.0,0,European,Entertainment District,2.4727272727272727,2.0
+Fieramosca,96,4.5,3,European,The Annex,2.3703703703703702,3.0
+The Greek Grill,71,4.0,2,European,East York,1.625,2.0
+Hacienda las Américas,60,4.5,2,Mexican,Downtown,1.8,2.0
+Rikkochez,55,4.5,2,Middle Eastern,Riverdale,2.0,2.0
+Pizzeria Libretto Danforth,306,4.0,2,American,Greektown,1.8571428571428572,2.0
+Bukhara Grill,61,4.0,2,Asian,Swansea,2.5,2.0
+Woodlot Restaurant,264,4.0,3,Other,Little Italy,2.272727272727273,3.0
+Grand Electric,688,3.5,2,American,Parkdale,1.7692307692307692,2.0
+Ristorante Sotto Sotto,100,4.0,3,European,The Annex,2.3703703703703702,3.0
+The Queen And Beaver Public House,381,4.0,2,American,Downtown Core,2.1016949152542375,2.0
+Insomnia Restaurant & Lounge,925,4.0,2,Other,The Annex,2.3703703703703702,2.0
+Panera Bread,82,3.0,2,American,Unionville,,2.0
+Scaddabush Italian Kitchen & Bar,210,3.5,2,European,Entertainment District,2.4727272727272727,2.0
+Arabian Bites,1,5.0,0,Middle Eastern,Ryerson,1.8,2.0
+The Ace,183,4.0,2,Other,Roncesvalles,1.8333333333333333,2.0
+Carisma,170,4.0,3,European,Downtown Core,2.1016949152542375,3.0
+Chick-fil-A,90,4.0,2,American,Church-Wellesley Village,2.0,2.0
+Chung Chun Rice Hotdog,52,4.0,0,American,Willowdale,2.0,2.0
+Gusto 501,14,3.5,0,European,Corktown,2.2857142857142856,2.0
+Union Social Eatery,146,4.0,2,American,Yonge and St. Clair,,2.0
+The Greek Grill,71,4.0,2,European,East York,1.625,2.0
+Maha’s,497,4.0,2,African,Leslieville,2.0,2.0
+Que Ling Restaurant,74,4.0,1,Asian,Riverdale,2.0,1.0
+Cinco Mexican Restaurant,64,4.5,1,Mexican,Roncesvalles,1.8333333333333333,1.0
+Rikkochez,55,4.5,2,Middle Eastern,Riverdale,2.0,2.0
+Hacienda las Américas,60,4.5,2,Mexican,Downtown,1.8,2.0
+Sher-E-Punjab,75,4.0,2,Asian,Riverdale,2.0,2.0
+Goods & Provisions,95,4.0,2,American,Leslieville,2.0,2.0
+Five Doors North,117,4.0,3,European,Mount Pleasant and Davisville,2.2857142857142856,3.0
+Como En Casa,219,4.0,1,Mexican,Church-Wellesley Village,2.0,1.0
+Kokyo Japanese Restaurant,47,4.0,2,Asian,Financial District,,2.0
+Naan & Kabob,104,4.0,2,Middle Eastern,Church-Wellesley Village,2.0,2.0
+Terroni,264,3.0,3,European,Rosedale,,3.0
+Kintaro Izakaya,191,4.0,2,Asian,Church-Wellesley Village,2.0,2.0
+8Mile Detroit Style Pizza,1,5.0,0,American,Downtown Core,2.1016949152542375,2.0
+Chine Legendary Hot Pot & Noodles,198,4.0,2,Asian,Chinatown,1.7727272727272727,2.0
+Nomé Izakaya,624,4.0,2,Other,Willowdale,2.0,2.0
+Sukho Thai,124,3.5,2,Asian,Little Portugal,2.4285714285714284,2.0
+Panera Bread,82,3.0,2,American,Unionville,,2.0
+Fresco’s Fish & Chips,352,4.5,2,American,Kensington Market,1.7777777777777777,2.0
+Cabano’s Comfort Food,48,4.5,0,Other,Downtown Core,2.1016949152542375,2.0
+Mexico Lindo,58,4.0,2,Mexican,Mount Pleasant and Davisville,2.2857142857142856,2.0
+Tamasha,10,4.5,0,American,Mount Pleasant and Davisville,2.2857142857142856,2.0
+Mi Taco Taqueria,134,4.0,1,Mexican,Queen Street West,2.25,1.0
+Patois Toronto,275,3.5,2,Asian,Little Italy,2.272727272727273,2.0
+Flavours Of Sheba,12,4.5,0,African,Corso Italia,2.1666666666666665,2.0
+Hogtown Smoke,64,4.0,2,American,St. Lawrence,2.0,2.0
+Shatter Abbas,14,4.0,0,Middle Eastern,Harbourfront,2.2222222222222223,2.0
+Pizzeria Libretto,109,4.0,2,American,Entertainment District,2.4727272727272727,2.0
+SARA,45,4.0,0,American,Entertainment District,2.4727272727272727,2.0
+Actinolite Restaurant,80,4.0,4,American,Christie Pits,,4.0
+Terroni,264,3.0,3,European,Rosedale,,3.0
+Nomé Izakaya,624,4.0,2,Other,Willowdale,2.0,2.0
+Anestis Taverna,56,4.0,2,European,Greektown,1.8571428571428572,2.0
+Casa Sinaloa,1,5.0,0,Mexican,Entertainment District,2.4727272727272727,2.0
+Kintaro Izakaya,191,4.0,2,Asian,Church-Wellesley Village,2.0,2.0
+Pearl Harbourfront Chinese Cuisine,231,3.5,2,Asian,Harbourfront,2.2222222222222223,2.0
+Sansotei Ramen,867,4.0,2,Asian,Downtown Core,2.1016949152542375,2.0
+Wynona,46,4.5,0,European,Leslieville,2.0,2.0
+Fusaro’s,84,4.0,2,European,Corktown,2.2857142857142856,2.0
+Buca Yorkville,192,3.5,3,European,Yorkville,2.7222222222222223,3.0
+Bar Neon,63,4.0,2,American,Bloordale Village,1.6,2.0
+The Burgernator,338,4.0,2,American,Kensington Market,1.7777777777777777,2.0
+Five Doors North,117,4.0,3,European,Mount Pleasant and Davisville,2.2857142857142856,3.0
+Four Four South VIllage,106,3.5,0,Asian,Downtown Core,2.1016949152542375,2.0
+Panera Bread,82,3.0,2,American,Unionville,,2.0
+The Carbon Bar,371,4.0,3,American,Corktown,2.2857142857142856,3.0
+Liuyishou Hotpot Downtown Toronto,76,4.0,3,Asian,Alexandra Park,1.7857142857142858,3.0
+Four Four South VIllage,106,3.5,0,Asian,Downtown Core,2.1016949152542375,2.0
+Bar Raval,276,4.0,3,European,Little Italy,2.272727272727273,3.0
+Casa Sinaloa,1,5.0,0,Mexican,Entertainment District,2.4727272727272727,2.0
+Banh Mi Boys,1102,4.5,1,Asian,Queen Street West,2.25,1.0
+Pow Wow Cafe,139,4.5,2,American,Kensington Market,1.7777777777777777,2.0
+Imanishi Japanese Kitchen,91,4.0,2,Asian,Little Portugal,2.4285714285714284,2.0
+Terroni,356,3.5,2,European,Trinity Bellwoods,2.1666666666666665,2.0
+Wynona,46,4.5,0,European,Leslieville,2.0,2.0
+King Solomon and Queen of Sheba,20,4.5,2,African,Corktown,2.2857142857142856,2.0
+Pearl Harbourfront Chinese Cuisine,231,3.5,2,Asian,Harbourfront,2.2222222222222223,2.0
+Indian Street Food Company,70,3.5,2,Asian,Mount Pleasant and Davisville,2.2857142857142856,2.0
+Mapo Gamjatang,47,4.0,2,Asian,Willowdale,2.0,2.0
+The Shozan Room,17,4.5,0,Asian,Ossington Strip,2.217391304347826,2.0
+Flame Food+Design,14,4.5,0,American,Swansea,2.5,2.0
+La Banane,129,4.0,4,European,Ossington Strip,2.217391304347826,4.0
+Aish Tanoor,34,4.0,2,Other,York,2.0,2.0
+Banjara Indian Cuisine,416,3.5,2,Asian,Christie Pits,,2.0
+O.Noir,330,3.5,3,American,Church-Wellesley Village,2.0,3.0
+The Manna,23,4.5,1,Asian,Koreatown,1.85,1.0
+Merci Mon Ami,29,4.0,2,Other,Liberty Village,,2.0
+Akira Back,139,4.0,4,Asian,Entertainment District,2.4727272727272727,4.0
+Completo,150,4.5,1,American,Leslieville,2.0,1.0
+Beach Hill Smokehouse,95,4.5,2,American,Upper Beach,2.0,2.0
+The Good Son,182,4.0,3,American,Beaconsfield Village,2.2857142857142856,3.0
+Lil Joe Cucina & Bar,18,4.5,0,American,Leslieville,2.0,2.0
+Edulis,116,4.0,4,European,Niagara,2.3333333333333335,4.0
+Archeo,73,3.0,2,European,Distillery District,,2.0
+Panera Bread,82,3.0,2,American,Unionville,,2.0
+The Old Spaghetti Factory,353,3.0,2,European,St. Lawrence,2.0,2.0
+Efes Kebab House,31,4.5,2,Middle Eastern,The Danforth,1.9285714285714286,2.0
+Zakkushi,39,4.5,0,Asian,Trinity Bellwoods,2.1666666666666665,2.0
+Little Bourbon House,21,4.5,0,Other,Scarborough,1.7777777777777777,2.0
+Chiado,118,4.0,4,American,Dufferin Grove,2.5,4.0
+Chen Chen’s Nashville Hot Chicken,5,5.0,0,American,Kensington Market,1.7777777777777777,2.0
+Bacan,10,4.0,0,South American,Roncesvalles,1.8333333333333333,2.0
+Favorites,21,4.0,0,American,Ossington Strip,2.217391304347826,2.0
+V’s Schnitzel House,19,3.5,2,European,Etobicoke,2.0,2.0
+Los Guaca-Moles,44,4.0,2,Mexican,Koreatown,1.85,2.0
+Souk Tabule,100,4.0,2,Middle Eastern,West Don Lands,2.0,2.0
+Naan and Chai,6,4.5,0,Middle Eastern,Trinity Bellwoods,2.1666666666666665,2.0
+Mangia & Bevi,213,4.0,2,European,Corktown,2.2857142857142856,2.0
+Ascari Enoteca,111,4.0,3,European,Leslieville,2.0,3.0
+Cactus Club Cafe,516,4.0,3,American,Financial District,,3.0
+Cool Runnings Restaurant,93,4.0,2,Carribean,Upper Beach,2.0,2.0
+Harry’s Steak House,13,4.5,0,American,Etobicoke,2.0,2.0
+Goa Kitchen,59,4.0,2,Asian,Bayview Village,,2.0
+Mustafa Turkish Pizza,136,4.0,2,Middle Eastern,Downsview,2.0,2.0
+Clay Restaurant,6,4.0,0,American,Yorkville,2.7222222222222223,3.0
+Zakkushi On Carlton,294,4.0,3,Asian,Cabbage Town,,3.0
+Taqueria Gus,22,4.5,0,Mexican,Kensington Market,1.7777777777777777,2.0
+Little Tibet Restaurant,19,4.5,0,Asian,Parkdale,1.7692307692307692,2.0
+Rush Hour,42,4.5,2,European,Downtown Core,2.1016949152542375,2.0
+Pure Spirits Oyster House & Grill,253,3.0,3,American,Distillery District,,3.0
+Koyoi Restaurant & Bar,128,4.0,2,Asian,Downtown Core,2.1016949152542375,2.0
+EAT BKK Thai Kitchen,58,4.0,2,Asian,Leslieville,2.0,2.0
+Mother India,193,4.0,2,Asian,Parkdale,1.7692307692307692,2.0
+Panera Bread,82,3.0,2,American,Unionville,,2.0
+The Rec Room,287,3.0,2,Other,Entertainment District,2.4727272727272727,2.0
+Kit Kat Italian Bar & Grill,251,4.0,2,European,Entertainment District,2.4727272727272727,2.0
+Nodo Leslieville,9,4.0,0,European,Leslieville,2.0,2.0
+Piri-Piri,38,3.5,2,European,The Junction,2.0,2.0
+Copacabana Brazilian Steak House,342,3.5,3,South American,Yonge and Eglinton,2.25,3.0
+Lageez,99,4.5,2,Asian,Scarborough,1.7777777777777777,2.0
+Playa Cabana - Hacienda,149,3.5,2,Mexican,The Annex,2.3703703703703702,2.0
+Bodega Henriette,33,4.5,2,American,Corktown,2.2857142857142856,2.0
+Local Liberty Village,267,4.0,2,American,Liberty Village,,2.0
+Boodle Fight,46,3.5,2,Asian,The Danforth,1.9285714285714286,2.0
+360 Restaurant,870,3.5,4,American,Entertainment District,2.4727272727272727,4.0
+Whelan’s Gate Gastropub,30,4.5,2,American,High Park,,2.0
+Balsamico Ristorante,40,4.5,2,European,Mount Pleasant and Davisville,2.2857142857142856,2.0
+Southern Accent Restaurant,60,4.0,3,American,Dufferin Grove,2.5,3.0
+The Enchanted Poutinerie,9,4.5,0,American,Downsview,2.0,2.0
+Forget Me Not Cafe,105,4.0,2,Asian,North York,,2.0
+Budapest Restaurant,1,5.0,0,European,York,2.0,2.0
+Dante’s Inferno Paninoteca,31,4.5,2,American,Wychwood,1.9,2.0
+The Great Maratha,49,4.0,2,Asian,York,2.0,2.0
+Pho House,74,4.0,2,Asian,Riverdale,2.0,2.0
+98 Aroma,88,4.0,2,Asian,Kensington Market,1.7777777777777777,2.0
+The Beech Tree,48,4.0,2,American,Upper Beach,2.0,2.0
+Gin Mill,20,4.0,0,American,Bloor-West Village,2.0,2.0
+Tonkin Vietnamese,9,4.5,0,Asian,Downtown Core,2.1016949152542375,2.0
+Meat Point,45,4.5,0,Middle Eastern,Downsview,2.0,2.0
+Medieval Times Toronto,173,4.0,3,Other,Downtown Core,2.1016949152542375,3.0
+Panera Bread,82,3.0,2,American,Unionville,,2.0
+Restaurante Las San Sivar Pupusería,13,4.5,0,South American,Corso Italia,2.1666666666666665,2.0
+Dragon Pearl Buffet,343,3.5,2,Asian,North York,,2.0
+Matha Roti - East Indian Cuisine,26,4.5,0,Asian,Entertainment District,2.4727272727272727,2.0
+Nove Trattoria,49,4.0,2,European,Yonge and St. Clair,,2.0
+The Civic At the Broadview Hotel,27,3.0,0,American,Riverdale,2.0,2.0
+Bindia Indian Bistro,176,4.0,2,Asian,St. Lawrence,2.0,2.0
+Herby Restaurant,18,4.5,0,Middle Eastern,Greektown,1.8571428571428572,2.0
+Morgan’s On the Danforth,82,4.0,2,American,The Danforth,1.9285714285714286,2.0
+Bi Bim Bap,67,4.0,2,Asian,York,2.0,2.0
+Rhum Corner,119,4.0,2,Carribean,Little Italy,2.272727272727273,2.0
+Lims Chicken,7,4.0,0,Asian,Koreatown,1.85,2.0
+Pujukan Authentic Korean BBQ,43,4.0,2,Asian,Willowdale,2.0,2.0
+Positano Restaurant,48,4.5,2,American,Mount Pleasant and Davisville,2.2857142857142856,2.0
+Big Trouble Pizza,52,4.5,2,American,Chinatown,1.7727272727272727,2.0
+Pho Anh Vu,25,4.5,2,Asian,Downtown Core,2.1016949152542375,2.0
+Maizuo Noodle and Crepe,1,5.0,0,Asian,Downtown Core,2.1016949152542375,2.0
+Banh Mi Boys,483,4.0,1,Asian,Ryerson,1.8,1.0
+Beijing Hot Pot Restaurant,78,4.0,2,Asian,Scarborough,1.7777777777777777,2.0
+Karma’s Kitchen,57,3.5,2,Asian,Leslieville,2.0,2.0
+Oretta,251,3.5,3,European,Entertainment District,2.4727272727272727,3.0
+Pho Son,31,4.0,1,Asian,North York,,1.0
+SOCO Kitchen + Bar,203,3.5,2,American,Entertainment District,2.4727272727272727,2.0
+Grey Gardens,95,4.5,3,American,Kensington Market,1.7777777777777777,3.0
+Spicy Incredibowl,4,4.0,0,Asian,Chinatown,1.7727272727272727,2.0
+Figo,250,3.5,3,European,Entertainment District,2.4727272727272727,3.0
+Wallflower,35,4.0,2,American,Brockton Village,1.8333333333333333,2.0
+Shalom Ethopian Restaurant,21,4.5,2,African,Cabbagetown,2.2,2.0
+Bloom,25,4.0,0,American,Downtown Core,2.1016949152542375,2.0
+Panera Bread,82,3.0,2,American,Unionville,,2.0
+M’Zaar Restaurant,132,4.0,1,Middle Eastern,Downtown Core,2.1016949152542375,1.0
+COO Café Bread or Rice,82,4.5,2,Asian,Dufferin Grove,2.5,2.0
+Brasileirissimo Steak House,8,4.5,0,South American,Little Portugal,2.4285714285714284,2.0
+Love Chix,41,4.0,2,American,The Junction,2.0,2.0
+Buono,16,4.0,0,European,Queen Street West,2.25,2.0
+Playa Cabana Cantina,271,3.5,2,Mexican,The Junction,2.0,2.0
+Tennessee,45,4.0,2,American,Parkdale,1.7692307692307692,2.0
+Butter Chicken Factory,109,3.5,2,Asian,Cabbagetown,2.2,2.0
+Chop Chop,68,4.0,1,Asian,Trinity Bellwoods,2.1666666666666665,1.0
+Sansotei,270,4.0,2,Asian,Downtown Core,2.1016949152542375,2.0
+Bloom,25,4.0,0,American,Downtown Core,2.1016949152542375,2.0
+Pizzeria Via Mercanti,229,4.0,2,American,Kensington Market,1.7777777777777777,2.0
+African Palace,88,4.0,2,African,Dovercourt,2.0,2.0
+Pizza Shab,1,5.0,0,American,Mount Pleasant and Davisville,2.2857142857142856,2.0
+Wallflower,35,4.0,2,American,Brockton Village,1.8333333333333333,2.0
+Yuugi Izakaya,19,4.5,0,Asian,Downtown Core,2.1016949152542375,2.0
+The Keg Steakhouse + Bar - Mansion,314,4.0,3,American,Entertainment District,2.4727272727272727,3.0
+Uncle Tony’s,65,4.0,2,European,St. Lawrence,2.0,2.0
+EAT BKK,20,3.5,2,Asian,Alexandra Park,1.7857142857142858,2.0
+SOCO Kitchen + Bar,203,3.5,2,American,Entertainment District,2.4727272727272727,2.0
+Oretta,251,3.5,3,European,Entertainment District,2.4727272727272727,3.0
+Kaito Sushi,26,4.0,0,American,Corso Italia,2.1666666666666665,2.0
+Konjiki Ramen,570,4.0,2,Asian,Willowdale,2.0,2.0
+Brickyard Bistro,54,4.5,2,European,Leslieville,2.0,2.0
+Poke Guys,340,4.0,2,American,Downtown Core,2.1016949152542375,2.0
+Sakai Bar,19,5.0,0,Asian,Brockton Village,1.8333333333333333,2.0
+Jz’s Pizza,99,4.0,2,American,Entertainment District,2.4727272727272727,2.0
+Jules Bistro,57,4.0,3,European,West Queen West,2.125,3.0
+Panera Bread,82,3.0,2,American,Unionville,,2.0
+Drom Taberna,36,4.0,0,European,Alexandra Park,1.7857142857142858,2.0
+Karahi Boys,11,4.0,0,Middle Eastern,Scarborough,1.7777777777777777,2.0
+La Cubana,215,4.0,2,South American,Ossington Strip,2.217391304347826,2.0
+Kub Khao Thai Eatery,323,4.0,2,Asian,Scarborough,1.7777777777777777,2.0
+Skyline Restaurant,68,4.0,2,American,Parkdale,1.7692307692307692,2.0
+Mean Bao,13,4.0,0,Asian,Roncesvalles,1.8333333333333333,2.0
+Marcello’s pizzeria,85,4.0,2,American,Wychwood,1.9,2.0
+Levetto,149,4.0,2,American,Chinatown,1.7727272727272727,2.0
+Figo,250,3.5,3,European,Entertainment District,2.4727272727272727,3.0
+Cocina de Doña Julia,9,4.5,1,American,The Junction,2.0,1.0
+Barista & Chef,44,4.5,2,Middle Eastern,Wychwood,1.9,2.0
+Lucia,4,4.0,0,European,The Junction,2.0,2.0
+La Carnita,110,3.5,2,Mexican,Riverdale,2.0,2.0
+Doo Roo Ae,74,3.5,2,Asian,Koreatown,1.85,2.0
+Blu Ristorante,136,4.0,3,European,Yorkville,2.7222222222222223,3.0
+Amber European Restaurant,33,4.0,2,European,Bloor-West Village,2.0,2.0
+Tabule Middle Eastern Cuisine,56,3.5,2,Middle Eastern,Bayview Village,,2.0
+Kid Lee,84,4.0,2,Asian,Financial District,,2.0
+Corks,26,4.0,1,European,Entertainment District,2.4727272727272727,1.0
+Dreyfus,15,3.5,0,European,Entertainment District,2.4727272727272727,2.0
+Golden Thai Restaurant,207,3.5,2,Asian,Corktown,2.2857142857142856,2.0
+Le Swan,35,4.0,0,European,West Queen West,2.125,2.0
+ThairoomGrand,44,4.0,2,Asian,North York,,2.0
+Reyna on King,16,3.5,0,American,Corktown,2.2857142857142856,2.0
+CrowdedHouse,52,4.5,2,Middle Eastern,Leslieville,2.0,2.0
+Panera Bread,82,3.0,2,American,Unionville,,2.0
+The Cherie Bistro,11,4.0,0,European,Church-Wellesley Village,2.0,2.0
+Natural Japaneats,1,5.0,0,Asian,Wychwood,1.9,2.0
+Friday Roots,8,4.0,0,Other,Little Italy,2.272727272727273,2.0
+Aviator Danforth,11,3.5,0,American,The Danforth,1.9285714285714286,2.0
+Pig Out BBQ,93,4.0,2,American,Downtown Core,2.1016949152542375,2.0
+Cluny Bistro & Boulangerie,559,3.5,3,European,Distillery District,,3.0
+Paul’s Spaghetti,37,4.0,2,European,East York,1.625,2.0
+Kub Khao Thai Eatery,323,4.0,2,Asian,Scarborough,1.7777777777777777,2.0
+BAO,26,3.5,0,Asian,Chinatown,1.7727272727272727,2.0
+Chabrol Restaurant,85,4.0,3,European,Yorkville,2.7222222222222223,3.0
+Terrazza,39,4.0,2,European,Bickford Park,2.2857142857142856,2.0
+Spice Indian Bistro,35,4.5,0,Asian,Corktown,2.2857142857142856,2.0
+Mean Bao,13,4.0,0,Asian,Roncesvalles,1.8333333333333333,2.0
+Bar Vendetta,6,4.5,0,European,Little Italy,2.272727272727273,2.0
+Kimama,19,4.0,2,Asian,Entertainment District,2.4727272727272727,2.0
+Moo Frites,212,4.0,1,European,Kensington Market,1.7777777777777777,1.0
+Amber European Restaurant,33,4.0,2,European,Bloor-West Village,2.0,2.0
+Mother Tongue,55,4.0,0,American,Entertainment District,2.4727272727272727,2.0
+CrowdedHouse,52,4.5,2,Middle Eastern,Leslieville,2.0,2.0
+Morton’s The Steakhouse,116,4.0,4,American,The Annex,2.3703703703703702,4.0
+Batifole Restaurant,70,4.0,3,European,Riverdale,2.0,3.0
+Karahi Boys,11,4.0,0,Middle Eastern,Scarborough,1.7777777777777777,2.0
+Tuk Tuk Canteen,23,3.5,0,Asian,Roncesvalles,1.8333333333333333,2.0
+Constantine,112,3.5,2,Middle Eastern,Church-Wellesley Village,2.0,2.0
+Hogtown Vegan,75,4.5,2,American,Downtown,1.8,2.0
+Earlscourt BBQ,33,4.0,2,American,Corso Italia,2.1666666666666665,2.0
+Canis,75,4.5,3,American,Trinity Bellwoods,2.1666666666666665,3.0
+St Clair Banh Cuon Pho Ga,67,4.0,1,Asian,Wychwood,1.9,1.0
+King Rustic,54,4.0,2,Other,Niagara,2.3333333333333335,2.0
+Panera Bread,82,3.0,2,American,Unionville,,2.0
+Shook,29,3.0,0,Other,Entertainment District,2.4727272727272727,2.0
+Tabule Middle Eastern Cuisine,56,3.5,2,Middle Eastern,Bayview Village,,2.0
+Duff’s Famous Wings,123,3.5,2,American,Mount Pleasant and Davisville,2.2857142857142856,2.0
+Mymy Chicken,74,3.5,2,Asian,The Annex,2.3703703703703702,2.0
+Live Organic Food Bar,203,4.0,2,Other,The Annex,2.3703703703703702,2.0
+Capocaccia Trattoria,61,3.5,2,American,Yonge and St. Clair,,2.0
+Hair of the Dog,326,4.0,2,American,Church-Wellesley Village,2.0,2.0
+JOEY Eaton Centre,481,3.5,2,American,Downtown Core,2.1016949152542375,2.0
+Off The Hook Fishbar,146,3.5,2,American,Riverdale,2.0,2.0
+Dönerland,8,4.5,0,Middle Eastern,Roncesvalles,1.8333333333333333,2.0
+Little Sito,32,4.0,2,Middle Eastern,Christie Pits,,2.0
+Harbord House,109,3.5,2,American,Entertainment District,2.4727272727272727,2.0
+Lalibela Ethiopian Restaurant,141,3.5,2,African,Bickford Park,2.2857142857142856,2.0
+MamaDon,4,4.5,0,Asian,Koreatown,1.85,2.0
+The Dime,76,3.5,1,American,Alexandra Park,1.7857142857142858,1.0
+ThairoomGrand,44,4.0,2,Asian,North York,,2.0
+Shangrila Tibetan & Asian Cuisine,88,4.0,2,Asian,Parkdale,1.7692307692307692,2.0
+Indian Spice Room,2,5.0,0,Asian,Riverdale,2.0,2.0
+Selam Restaurant & Lounge,58,4.0,2,African,Christie Pits,,2.0
+Salad King Restaurant,952,3.5,2,Asian,Downtown Core,2.1016949152542375,2.0
+Delicious Empanadas,7,3.5,2,South American,Downtown Core,2.1016949152542375,2.0
+Founder,17,4.5,0,American,Little Portugal,2.4285714285714284,2.0
+Souv Like,58,4.5,1,European,Greektown,1.8571428571428572,1.0
+Union,215,4.0,3,European,Ossington Strip,2.217391304347826,3.0
+Salt and Tobacco,44,4.0,2,American,Cabbagetown,2.2,2.0
+Michael’s on Simcoe,151,4.0,4,American,Entertainment District,2.4727272727272727,4.0
+School Restaurant,562,3.5,2,Other,Liberty Village,,2.0
+Harbour 60,237,4.0,4,American,Harbourfront,2.2222222222222223,4.0
+Panera Bread,82,3.0,2,American,Unionville,,2.0
+Maker Pizza,207,4.0,2,American,Alexandra Park,1.7857142857142858,2.0
+Gyugyuya,3,4.5,0,Asian,The Annex,2.3703703703703702,2.0
+MamaDon,4,4.5,0,Asian,Koreatown,1.85,2.0
+Live Organic Food Bar,203,4.0,2,Other,The Annex,2.3703703703703702,2.0
+Mi Mi Restaurant,116,4.0,1,Asian,Riverdale,2.0,1.0
+Morton’s The Steakhouse,116,4.0,4,American,The Annex,2.3703703703703702,4.0
+120 Diner,24,4.0,2,American,Corktown,2.2857142857142856,2.0
+Shanghai Shikumen Fine Cuisine,19,3.5,0,Asian,Chinatown,1.7727272727272727,2.0
+Fresh On Bloor,311,3.5,2,American,The Annex,2.3703703703703702,2.0
+Union,215,4.0,3,European,Ossington Strip,2.217391304347826,3.0
+Best istanbul Restaurant,6,4.0,0,Middle Eastern,Kensington Market,1.7777777777777777,2.0
+Lechon Republik,1,5.0,0,Asian,Glen Park,,
+One2 Snacks,219,4.5,1,Asian,Scarborough,1.7777777777777777,1.0
+The Craft Brasserie & Grille,152,3.5,2,Other,Liberty Village,,2.0
+Bodega Henriette,51,4.5,2,American,Upper Beach,2.0,2.0
+Sidebar,13,4.0,0,American,Riverdale,2.0,2.0
+Dumpling House Restaurant,583,3.5,1,Asian,Chinatown,1.7727272727272727,1.0
+Thai Country Kitchen,135,4.0,1,Asian,Chinatown,1.7727272727272727,1.0
+Fusaro’s Kitchen,138,4.0,2,European,Entertainment District,2.4727272727272727,2.0
+JOEY Eaton Centre,481,3.5,2,American,Downtown Core,2.1016949152542375,2.0
+Square Boy,168,4.0,1,American,Greektown,1.8571428571428572,1.0
+Tasty’s Caribbean Restaurant,72,4.0,1,Carribean,Chinatown,1.7727272727272727,1.0
+Thai Nyyom,9,4.5,0,Asian,The Junction,2.0,2.0
+7 Numbers Danforth,91,3.5,2,European,Riverdale,2.0,2.0
+Chat Bar,26,4.0,2,Asian,Willowdale,2.0,2.0
+F’Amelia,115,3.5,3,American,Cabbagetown,2.2,3.0
+Michael’s on Simcoe,151,4.0,4,American,Entertainment District,2.4727272727272727,4.0
+Lan Restaurant,51,3.5,2,Asian,Riverdale,2.0,2.0
+Panera Bread,82,3.0,2,American,Unionville,,2.0
+Gio Rana’s Really Really Nice Restaurant,192,4.0,3,European,Leslieville,2.0,3.0
+Town Crier Pub,207,4.0,2,American,Entertainment District,2.4727272727272727,2.0
+Maiz,1,4.0,0,American,Parkdale,1.7692307692307692,2.0
+Lechon Republik,1,5.0,0,Asian,Glen Park,,
+Thai Country Kitchen,135,4.0,1,Asian,Chinatown,1.7727272727272727,1.0
+Tabriz Persian Cookhouse,54,4.0,2,Middle Eastern,Discovery District,,2.0
+Monga Fried Chicken,104,3.5,2,Asian,Downtown Core,2.1016949152542375,2.0
+House of Gourmet,384,3.5,2,Asian,Chinatown,1.7727272727272727,2.0
+The Host,112,3.5,2,Asian,The Annex,2.3703703703703702,2.0
+Porchetta & Co,180,4.0,2,American,Entertainment District,2.4727272727272727,2.0
+Limon Lounge,1,5.0,0,Mexican,Corso Italia,2.1666666666666665,2.0
+Pho 90,21,4.5,2,Asian,North York,,2.0
+Shanghai Shikumen Fine Cuisine,19,3.5,0,Asian,Chinatown,1.7727272727272727,2.0
+Double D’s,4,4.0,0,American,New Toronto,,
+Lebanon Express,19,4.5,0,Middle Eastern,Roncesvalles,1.8333333333333333,2.0
+Vietnoms,98,4.0,2,Asian,Willowdale,2.0,2.0
+Church’s Chicken,3,5.0,0,American,East York,1.625,2.0
+Baretto Caffe,324,5.0,2,American,Scarborough,1.7777777777777777,2.0
+The Wren,181,4.0,2,American,The Danforth,1.9285714285714286,2.0
+When The Pig Came Home,61,4.5,2,Other,The Junction,2.0,2.0
+Lipstick & Dynamite,31,4.0,1,Other,West Queen West,2.125,1.0
+Bar Poet,27,3.5,2,American,Beaconsfield Village,2.2857142857142856,2.0
+The Arepa Republic,14,4.5,0,South American,None,,
+Duff’s Famous Wings,119,3.5,2,American,Palmerston,,2.0
+Cinderella Restaurant,7,4.0,0,Middle Eastern,Bloordale Village,1.6,2.0
+Mother’s Dumplings,522,3.5,2,Asian,Chinatown,1.7727272727272727,2.0
+The Pie Commission,226,4.5,1,American,Etobicoke,2.0,1.0
+Chacho’s Fine Mexican Dining,82,3.5,2,Mexican,Mount Pleasant and Davisville,2.2857142857142856,2.0
+Sina Persian Cuisine,2,4.5,0,Middle Eastern,Yonge and Eglinton,2.25,2.0
+JaBistro,517,4.0,3,Asian,Entertainment District,2.4727272727272727,3.0
+Panera Bread,82,3.0,2,American,Unionville,,2.0
+Bagnet Bros,21,4.0,2,Asian,North York,,2.0
+Chacho’s Fine Mexican Dining,82,3.5,2,Mexican,Mount Pleasant and Davisville,2.2857142857142856,2.0
+Monga Fried Chicken,104,3.5,2,Asian,Downtown Core,2.1016949152542375,2.0
+Makkal Chon,325,4.0,2,Asian,Scarborough,1.7777777777777777,2.0
+The Host,112,3.5,2,Asian,The Annex,2.3703703703703702,2.0
+OM Restaurant and Bar,46,4.0,2,Asian,Parkdale,1.7692307692307692,2.0
+The Wren,181,4.0,2,American,The Danforth,1.9285714285714286,2.0
+Pam’s Roti Shop,7,5.0,0,Carribean,Dufferin Grove,2.5,2.0
+Duff’s Famous Wings,119,3.5,2,American,Palmerston,,2.0
+The Chase,380,3.5,3,American,Downtown Core,2.1016949152542375,3.0
+AMA,36,4.0,2,South American,West Queen West,2.125,2.0
+Junction Local,59,4.0,3,American,The Junction,2.0,3.0
+Chadani Indian Cuisine,16,4.5,0,Asian,St. Lawrence,2.0,2.0
+Il Covo,44,3.5,3,European,Little Italy,2.272727272727273,3.0
+Mother’s Dumplings,522,3.5,2,Asian,Chinatown,1.7727272727272727,2.0
+Churrasqueira Vila Verde Restaurant,15,4.0,2,European,Trinity Bellwoods,2.1666666666666665,2.0
+Roti’s To Go,12,4.5,0,Asian,Ryerson,1.8,2.0
+Barrio Coreano,233,3.5,2,Asian,Koreatown,1.85,2.0
+JaBistro,517,4.0,3,Asian,Entertainment District,2.4727272727272727,3.0
+La Vinia,61,4.0,3,European,Etobicoke,2.0,3.0
+Little Coxwell Vietnamese & Thai Cuisine,123,4.0,2,Asian,East York,1.625,2.0
+Soulas Modern Greek Cuisine,30,4.0,0,European,Greektown,1.8571428571428572,2.0
+Bistro Camino,21,4.5,2,European,The Danforth,1.9285714285714286,2.0
+Green Haven,8,5.0,0,American,The Junction,2.0,2.0
+Lipstick & Dynamite,31,4.0,1,Other,West Queen West,2.125,1.0
+The Burger’s Priest,445,3.5,2,American,Upper Beach,2.0,2.0
+Sansotei Ramen,79,4.5,2,Asian,City Place,,2.0
+Los Vietnamita Taqueria Shop,11,4.5,0,Mexican,Downtown Core,2.1016949152542375,2.0
+Ardo Restaurant,93,4.0,3,European,Corktown,2.2857142857142856,3.0
+Panera Bread,82,3.0,2,American,Unionville,,2.0
+Bar Poet,27,3.5,2,American,Beaconsfield Village,2.2857142857142856,2.0
+The Keg Steakhouse + Bar,264,4.0,3,American,Financial District,,3.0
+Thai Room,58,3.5,2,Asian,Cabbage Town,,2.0
+Pimentas Grill,6,4.5,0,European,Bickford Park,2.2857142857142856,2.0
+Bocconcini Toronto,18,4.5,0,American,Downtown Core,2.1016949152542375,2.0
+Pho Pasteur,203,3.5,2,Asian,Chinatown,1.7727272727272727,2.0
+Bach Yen,198,4.0,1,Asian,Riverdale,2.0,1.0
+Tanto,34,3.5,3,South American,Ossington Strip,2.217391304347826,3.0
+Mr Pide,77,4.5,2,American,Greektown,1.8571428571428572,2.0
+Maido Japanese Restaurant,71,4.0,2,Asian,The Annex,2.3703703703703702,2.0
+Opus Restaurant,63,4.0,4,American,The Annex,2.3703703703703702,4.0
+El Rincon Mexicano Restaurant,95,3.0,2,Mexican,Wychwood,1.9,2.0
+MaMa Chef Korean Restaurant,57,4.0,2,Asian,Koreatown,1.85,2.0
+Peter Pan Bistro,163,3.5,2,American,Queen Street West,2.25,2.0
+El Sazón Mexicano,5,4.0,0,Mexican,Corso Italia,2.1666666666666665,2.0
+Comida Ecuatoriana,2,4.5,0,American,Downsview,2.0,2.0
+Mr.Tonkatsu,69,4.0,2,Asian,Downtown Core,2.1016949152542375,2.0
+Gandhi Cuisine,254,4.0,2,Asian,Alexandra Park,1.7857142857142858,2.0
+Adega Restaurante,146,4.0,3,European,Downtown Core,2.1016949152542375,3.0
+Thai Spicy House,55,3.5,2,Asian,Mount Pleasant and Davisville,2.2857142857142856,2.0
+Kitchen Hub,4,5.0,0,Asian,Etobicoke,2.0,2.0
+Greedy Duck & Noodles,9,4.0,0,Asian,Downtown,1.8,2.0
+Indian Grill,79,4.0,2,Asian,Ossington Strip,2.217391304347826,2.0
+Three Monks and a Duck,24,4.5,0,Asian,Niagara,2.3333333333333335,2.0
+Trattoria Mercatto,199,3.5,2,European,Downtown Core,2.1016949152542375,2.0
+Teller’s Bar and Lounge,4,4.5,2,American,Downtown Core,2.1016949152542375,2.0
+Mermaid Fish and Grill House,43,4.5,2,American,Deer Park,,2.0
+Panera Bread,82,3.0,2,American,Unionville,,2.0
+Hotopia Sichuan Cuisine,29,3.0,2,Asian,Willowdale,2.0,2.0
+Masseria,66,4.0,2,American,Entertainment District,2.4727272727272727,2.0
+The Veggie Thali,57,4.5,1,Asian,Scarborough,1.7777777777777777,1.0
+Mad Mexican,111,3.0,2,Mexican,North York,,2.0
+Earls Kitchen + Bar,427,3.5,2,American,Financial District,,2.0
+Norling,67,4.0,1,Asian,Parkdale,1.7692307692307692,1.0
+Shunoko,72,4.0,2,American,Corso Italia,2.1666666666666665,2.0
+Tofu Village - House of Soon Tofu,187,4.0,2,Asian,Koreatown,1.85,2.0
+Chappa Corner Cafe & Restaurant,1,5.0,0,Other,Corso Italia,2.1666666666666665,2.0
+Chino Locos Original,178,4.0,1,Mexican,Leslieville,2.0,1.0
+Eastside Social,67,4.0,2,American,Leslieville,2.0,2.0
+Torch Pressed Sushi,27,4.0,2,Asian,Church-Wellesley Village,2.0,2.0
+Arabesque Middle Eastern Foods,27,5.0,1,Middle Eastern,Dufferin Grove,2.5,1.0
+Tapas At Embrujo,84,3.5,3,European,Riverdale,2.0,3.0
+Hastings Snack Bar,38,4.5,1,European,Leslieville,2.0,1.0
+Her Chef,44,4.5,2,Asian,Koreatown,1.85,2.0
+Lalibela Ethiopian Restaurant,83,4.0,2,African,The Danforth,1.9285714285714286,2.0
+La Bettola di Terroni,148,3.5,2,European,Downtown Core,2.1016949152542375,2.0
+Tachi,136,4.5,3,American,Financial District,,3.0
+Yupdduk,36,3.0,2,Asian,Willowdale,2.0,2.0
+Estiatorio Volos,306,4.0,3,American,Financial District,,3.0
+Crown Princess Fine Dining,259,3.5,2,Asian,Downtown Core,2.1016949152542375,2.0
+The Dirty Bird Chicken + Waffles,319,3.5,2,American,Kensington Market,1.7777777777777777,2.0
+Premium Sweets,33,4.0,0,Asian,Scarborough,1.7777777777777777,2.0
+Barnsteiner’s,52,3.5,3,European,Yonge and St. Clair,,3.0
+Zhang’s Kitchen,10,4.0,0,Asian,Downtown Core,2.1016949152542375,2.0
+The 6 Burger Bar,36,4.5,1,American,Scarborough,1.7777777777777777,1.0
+Panera Bread,82,3.0,2,American,Unionville,,2.0
+Yuzu No Hana,538,4.0,3,American,Entertainment District,2.4727272727272727,3.0
+La Pasiva,6,4.5,0,American,Downsview,2.0,2.0
+Ding Tai Fung,81,3.5,2,Asian,Scarborough,1.7777777777777777,2.0
+Rendez-Vous,99,4.0,2,African,The Danforth,1.9285714285714286,2.0
+Bar Buca,260,4.0,2,American,Entertainment District,2.4727272727272727,2.0
+Petit Potato,14,4.0,0,Asian,Willowdale,2.0,2.0
+Rosedale Diner,92,3.5,2,Other,Summer Hill,1.6666666666666667,2.0
+T&T Roti Trinidad & Toronto Roti,10,4.5,1,Carribean,Alexandra Park,1.7857142857142858,1.0
+Katsuya,140,4.0,2,Asian,Scarborough,1.7777777777777777,2.0
+Fudao noodle house,126,4.0,2,Asian,Chinatown,1.7727272727272727,2.0
+KINTORI YAKITORI,49,3.5,2,Asian,Koreatown,1.85,2.0
+Lobster Burger Bar,21,3.5,2,American,Entertainment District,2.4727272727272727,2.0
+HK Snack Bar,1,5.0,0,Asian,Downtown Core,2.1016949152542375,2.0
+Mill Street Beer Hall,170,3.0,2,American,Distillery District,,2.0
+Noce Restaurant,71,4.0,3,European,Niagara,2.3333333333333335,3.0
+Indie Ale House,244,4.0,2,American,The Junction,2.0,2.0
+Messini Authentic Gyros,481,3.5,2,European,Greektown,1.8571428571428572,2.0
+Ballissimo Loukoumades Bar,8,5.0,0,American,East York,1.625,2.0
+Pizzeria Moretti,19,3.5,0,European,Entertainment District,2.4727272727272727,2.0
+The Fourth Man In The Fire,14,3.5,0,American,Little Italy,2.272727272727273,2.0
+Alexandros,123,3.5,1,European,Harbourfront,2.2222222222222223,1.0
+Bosk,144,4.0,3,American,Financial District,,3.0
+Kensington Sushi Market,20,4.5,0,American,Kensington Market,1.7777777777777777,2.0
+Craft Beer Market,137,3.5,2,American,Downtown Core,2.1016949152542375,2.0
+Portici,76,4.0,2,European,Yorkville,2.7222222222222223,2.0
+Albert’s Real Jamaican Foods,89,3.5,2,Carribean,Wychwood,1.9,2.0
+Panera Bread,82,3.0,2,American,Unionville,,2.0
+Hogtown Smoke In the Beach,172,3.5,2,American,The Beach,,2.0
+The 6 Burger Bar,36,4.5,1,American,Scarborough,1.7777777777777777,1.0
+Rendez-Vous,99,4.0,2,African,The Danforth,1.9285714285714286,2.0
+Sing Sing Barbeque House,3,4.0,0,American,Riverdale,2.0,2.0
+Fudao noodle house,126,4.0,2,Asian,Chinatown,1.7727272727272727,2.0
+Yupdduk,36,3.0,2,Asian,Willowdale,2.0,2.0
+Petit Potato,14,4.0,0,Asian,Willowdale,2.0,2.0
+Bitondo’s Pizzeria,148,4.0,1,American,Little Italy,2.272727272727273,1.0
+Maracas,12,4.5,0,Carribean,Kensington Market,1.7777777777777777,2.0
+Ackee Tree Dynamite Jamaican Jerk,12,4.0,0,Carribean,Corktown,2.2857142857142856,2.0
+The 3 Brewers Liberty Village,53,3.0,2,American,Liberty Village,,2.0
+Bolan Thai Cuisine,93,4.0,2,Asian,Mount Pleasant and Davisville,2.2857142857142856,2.0
+Hotopia Sichuan Cuisine,29,3.0,2,Asian,Willowdale,2.0,2.0
+Hanoi 3 Seasons,64,3.5,2,Asian,Riverdale,2.0,2.0
+La Vecchia Ristorante,280,3.5,2,European,Yonge and Eglinton,2.25,2.0
+Hemingway’s Restaurant,254,3.0,2,American,Yorkville,2.7222222222222223,2.0
+Premium Sweets,33,4.0,0,Asian,Scarborough,1.7777777777777777,2.0
+STK Toronto,167,3.0,4,American,Yorkville,2.7222222222222223,4.0
+Steady’s Jamaican Home Cooking,14,4.5,1,Carribean,East York,1.625,1.0
+Factory Girl,96,3.5,2,American,Riverdale,2.0,2.0
+The Rebel House,107,3.5,2,American,Summer Hill,1.6666666666666667,2.0
+General Assembly Pizza,83,4.0,2,American,Entertainment District,2.4727272727272727,2.0
+Dakgogi,19,3.0,2,Asian,Church-Wellesley Village,2.0,2.0
+Hothouse,340,3.5,2,European,St. Lawrence,2.0,2.0
+Tenoch Restaurant,62,3.5,2,Mexican,Wychwood,1.9,2.0
+Panera Bread,82,3.0,2,American,Unionville,,2.0
+Centrale Bergham,20,4.5,2,American,Alexandra Park,1.7857142857142858,2.0
+Fresca Pizza & Pasta,114,4.0,1,American,Downtown,1.8,1.0
+Famoso Neapolitan,151,4.0,2,American,The Annex,2.3703703703703702,2.0
+Spiga Ristorante,14,4.0,3,European,Yonge and St. Clair,,3.0
+Ali’s West Indian Roti Shop,78,4.0,1,Carribean,Parkdale,1.7692307692307692,1.0
+One Love Vegetarian,83,4.0,2,Carribean,Seaton Village,,2.0
+Bob’s Bulgogi,80,4.0,1,Asian,Downtown Core,2.1016949152542375,1.0
+Brothers,57,4.0,3,American,Yorkville,2.7222222222222223,3.0
+Ballissimo Loukoumades Bar,8,5.0,0,American,East York,1.625,2.0
+Quetzal,47,4.0,0,Mexican,Kensington Market,1.7777777777777777,2.0
+Katsuya,140,4.0,2,Asian,Scarborough,1.7777777777777777,2.0
+Mattachioni,36,4.0,2,European,The Junction,2.0,2.0
+Mapo Korean BBQ,44,4.0,2,American,Koreatown,1.85,2.0
+Ufficio,91,4.0,3,American,Little Portugal,2.4285714285714284,3.0
+King’s Café,137,4.0,2,Asian,Kensington Market,1.7777777777777777,2.0
+Reposado Bar & Lounge,140,4.0,2,European,Ossington Strip,2.217391304347826,2.0
+La Chilaca Taqueria,53,4.5,1,Mexican,Kensington Market,1.7777777777777777,1.0
+Ehwa J Bar,48,4.0,2,American,Church-Wellesley Village,2.0,2.0
+Assembly Chef’s Hall - Temp. CLOSED,291,4.0,2,American,Financial District,,2.0
+Henrietta Lane Cafe & Drinkery,12,4.5,0,American,Corktown,2.2857142857142856,2.0
+Piquette,4,4.0,0,American,Beaconsfield Village,2.2857142857142856,2.0
+Pizzeria Defina,131,4.0,2,American,Roncesvalles,1.8333333333333333,2.0
+Deepizz Pizzeria,27,4.5,0,American,Downtown Core,2.1016949152542375,2.0
+Jacques’ Bistro Du Parc,52,4.5,3,European,Yorkville,2.7222222222222223,3.0
+Happy Lamb Hot Pot,107,3.5,2,Asian,Chinatown,1.7727272727272727,2.0
+MAIZ,20,3.5,0,Mexican,The Junction,2.0,2.0
+Mariachi’s Restaurant,93,3.5,2,Mexican,Mount Pleasant and Davisville,2.2857142857142856,2.0
+Scaddabush Italian Kitchen & Bar,456,3.5,2,American,Downtown Core,2.1016949152542375,2.0
+Panera Bread,82,3.0,2,American,Unionville,,2.0
+Evoo Ristorante,33,4.0,4,American,The Annex,2.3703703703703702,4.0
+Seoulicious,66,3.5,2,Asian,Downtown Core,2.1016949152542375,2.0
+Sukhothai,26,3.0,0,Asian,West Don Lands,2.0,2.0
+Mariachi’s Restaurant,93,3.5,2,Mexican,Mount Pleasant and Davisville,2.2857142857142856,2.0
+CASA manila Restaurant,320,3.0,2,Asian,North York,,2.0
+Henrietta Lane Cafe & Drinkery,12,4.5,0,American,Corktown,2.2857142857142856,2.0
+Hothouse,340,3.5,2,European,St. Lawrence,2.0,2.0
+Basil Box,175,4.0,2,Asian,Ryerson,1.8,2.0
+Xawaash,126,4.0,2,Middle Eastern,Etobicoke,2.0,2.0
+Regina Pizzeria & Trattoria,57,4.0,2,European,Bickford Park,2.2857142857142856,2.0
+Nimman Thai Cuisine,118,4.0,2,Asian,Etobicoke,2.0,2.0
+The Green Wood,93,4.0,2,American,Leslieville,2.0,2.0
+STK Toronto,167,3.0,4,American,Yorkville,2.7222222222222223,4.0
+Sizzler Kabab,8,3.5,0,Middle Eastern,Niagara,2.3333333333333335,2.0
+Edomae Kiyomi,12,4.0,4,American,Downtown Core,2.1016949152542375,4.0
+Ehwa J Bar,48,4.0,2,American,Church-Wellesley Village,2.0,2.0
+Iron Rooster,7,4.0,0,American,Chinatown,1.7727272727272727,2.0
+Burrito Boyz,421,4.0,1,Mexican,Entertainment District,2.4727272727272727,1.0
+Curry Twist Restaurant,102,4.0,2,Asian,The Junction,2.0,2.0
+Real Sports,462,3.5,2,American,Entertainment District,2.4727272727272727,2.0
+Jacques’ Bistro Du Parc,52,4.5,3,European,Yorkville,2.7222222222222223,3.0
+Artisan Plus,44,4.0,2,Asian,Downtown Core,2.1016949152542375,2.0
+Ossington Stop,15,4.0,2,American,Ossington Strip,2.217391304347826,2.0
+Panera Bread,82,3.0,2,American,Unionville,,2.0
+Kōjin - Temp. CLOSED,106,4.0,3,American,Downtown Core,2.1016949152542375,3.0
+Schmaltz Appetizing,61,4.0,2,Other,The Annex,2.3703703703703702,2.0
+Ethiopian House Restaurant,171,3.5,2,African,Downtown Core,2.1016949152542375,2.0
+E11even,158,3.5,3,American,Entertainment District,2.4727272727272727,3.0
+Gushi Japanese Street Food,104,4.0,1,American,Alexandra Park,1.7857142857142858,1.0
+Burrito Boyz,421,4.0,1,Mexican,Entertainment District,2.4727272727272727,1.0
+Utopia Café & Grill,247,3.5,2,Mexican,Palmerston,,2.0
+Me Va Me Kitchen Express,165,4.0,2,Middle Eastern,Queen Street West,2.25,2.0
+R&D Restaurant,254,3.5,3,Asian,Chinatown,1.7727272727272727,3.0
+Regina Pizzeria & Trattoria,57,4.0,2,European,Bickford Park,2.2857142857142856,2.0
+FET ZUN,29,4.0,0,Middle Eastern,The Annex,2.3703703703703702,2.0
+Pili Pili,38,4.5,2,Asian,Scarborough,1.7777777777777777,2.0
+Thai On Yonge,126,4.0,2,Asian,Ryerson,1.8,2.0
+Blondies,30,3.5,0,American,Leslieville,2.0,2.0
+Curry Twist Restaurant,102,4.0,2,Asian,The Junction,2.0,2.0
+Fonda Lola,98,3.5,2,Mexican,West Queen West,2.125,2.0
+Faim de Loup,4,5.0,0,European,Dufferin Grove,2.5,2.0
+Rosalinda,164,4.0,2,Mexican,Financial District,,2.0
+Chef Gourmet,7,5.0,0,Middle Eastern,Church-Wellesley Village,2.0,2.0
+Mocha Mocha,48,4.0,2,American,Greektown,1.8571428571428572,2.0
+One Restaurant,196,3.5,4,American,Yorkville,2.7222222222222223,4.0
+Artisan Plus,44,4.0,2,Asian,Downtown Core,2.1016949152542375,2.0
+King’s Noodle Restaurant,413,3.5,2,Asian,Chinatown,1.7727272727272727,2.0
+Core Restaurant,23,4.0,0,Asian,Leslieville,2.0,2.0
+Kimchi House,42,4.0,2,Asian,Koreatown,1.85,2.0
+Ueno,17,4.5,2,American,Corktown,2.2857142857142856,2.0
+Nimman Thai Cuisine,118,4.0,2,Asian,Etobicoke,2.0,2.0
+The Four Seven,30,4.5,2,European,Bloordale Village,1.6,2.0
+Panera Bread,82,3.0,2,American,Unionville,,2.0
+Japango,669,3.5,2,American,Downtown Core,2.1016949152542375,2.0
+Schmaltz Appetizing,61,4.0,2,Other,The Annex,2.3703703703703702,2.0
+Foxley Bistro and Bar,132,4.0,3,Asian,Ossington Strip,2.217391304347826,3.0
+Chaban,106,4.0,2,Asian,Etobicoke,2.0,2.0
+Pho Vistro,146,3.5,2,Asian,Queen Street West,2.25,2.0
+Ueno,17,4.5,2,American,Corktown,2.2857142857142856,2.0
+Kimchi House,42,4.0,2,Asian,Koreatown,1.85,2.0
+Ethiopian House Restaurant,171,3.5,2,African,Downtown Core,2.1016949152542375,2.0
+Baro,149,3.5,3,American,Entertainment District,2.4727272727272727,3.0
+Reposado Bar & Lounge,140,4.0,2,European,Ossington Strip,2.217391304347826,2.0
+Folia Grill,50,4.0,1,American,East York,1.625,1.0
+GB Hand Pulled Noodle,30,3.5,2,Asian,Leslieville,2.0,2.0
+Milagro,109,3.5,2,Mexican,Niagara,2.3333333333333335,2.0
+Faim de Loup,4,5.0,0,European,Dufferin Grove,2.5,2.0
+Hyderabad Biryani Hut,16,4.0,0,Asian,Scarborough,1.7777777777777777,2.0
+Mezu,39,4.5,2,Asian,Little Portugal,2.4285714285714284,2.0
+Jumbo Empanadas,134,4.0,1,American,Kensington Market,1.7777777777777777,1.0
+Oxtail Pho & Banh Mi,3,4.5,0,Asian,Ryerson,1.8,2.0
+Chito’s Pizza,52,4.0,1,American,Bloordale Village,1.6,1.0
+Tashi Delek Cafe,8,4.5,0,American,Parkdale,1.7692307692307692,2.0
+E11even,158,3.5,3,American,Entertainment District,2.4727272727272727,3.0
+Market Street Catch,129,3.5,2,American,St. Lawrence,2.0,2.0
+Kim Vietnamese Restaurant,45,4.0,1,Asian,Chinatown,1.7727272727272727,1.0
+Animal Liberation Kitchen,4,4.5,0,American,Riverdale,2.0,2.0
+Utopia Café & Grill,247,3.5,2,Mexican,Palmerston,,2.0
+Panera Bread,82,3.0,2,American,Unionville,,2.0
+Joe Bird,79,3.5,2,American,Harbourfront,2.2222222222222223,2.0
+Go Cup,1,4.0,0,Asian,Ryerson,1.8,2.0
+IST Snack Bar,12,4.0,0,Asian,Parkdale,1.7692307692307692,2.0
+Animal Liberation Kitchen,4,4.5,0,American,Riverdale,2.0,2.0
+Govinda’s,36,4.0,1,Other,Summer Hill,1.6666666666666667,1.0
+The Poke Box,161,4.5,2,American,Downtown Core,2.1016949152542375,2.0
+Ascari King,14,4.0,0,American,Entertainment District,2.4727272727272727,2.0
+Chaban,106,4.0,2,Asian,Etobicoke,2.0,2.0
+Paldo Gangsan,72,4.0,1,Asian,Koreatown,1.85,1.0
+Folia Grill,50,4.0,1,American,East York,1.625,1.0
+Pho Rua Vang Golden Turtle,301,3.0,2,Asian,Ossington Strip,2.217391304347826,2.0
+RYUS Noodle Bar,23,4.0,0,Asian,Niagara,2.3333333333333335,2.0
+Osteria Rialto,1,4.0,0,European,Dovercourt,2.0,2.0
+La Carnita,157,2.5,2,Mexican,Yonge and Eglinton,2.25,2.0
+Mambo Lounge,35,3.5,2,South American,The Danforth,1.9285714285714286,2.0
+Chito’s Pizza,52,4.0,1,American,Bloordale Village,1.6,1.0
+Phosome,2,4.0,0,Asian,Cabbagetown,2.2,2.0
+Tam Vietnamese Street Food & Cafe,2,4.5,0,Asian,The Junction,2.0,2.0
+Tocino Boys,8,4.5,1,American,Ossington Strip,2.217391304347826,1.0
+Union Social Eatery,240,4.0,2,American,Willowdale,2.0,2.0
+Korean Grill House,269,3.5,2,Asian,Queen Street West,2.25,2.0
+Top Gun Burgers,173,4.0,2,American,Kensington Market,1.7777777777777777,2.0
+Lim Ga Ne,84,3.5,2,Asian,Koreatown,1.85,2.0
+Cafe CanCan,104,3.5,3,European,Entertainment District,2.4727272727272727,3.0
+Bolands Kitchen,14,4.0,3,American,Mount Pleasant and Davisville,2.2857142857142856,3.0
+GB Hand Pulled Noodle,30,3.5,2,Asian,Leslieville,2.0,2.0
