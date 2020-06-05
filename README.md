@@ -10,10 +10,14 @@
   - Logistic Regression
  
 # Files
-- [Exploratory Data Analysis.ipynb]((https://github.com/jason-huynh83/Toronto_Restaurant_Predictions/blob/master/Exploratory%20Data%20Analysis.ipynb)): Exploratory Data Analysis
+- [Exploratory Data Analysis.ipynb](https://github.com/jason-huynh83/Toronto_Restaurant_Predictions/blob/master/Exploratory%20Data%20Analysis.ipynb): Exploratory Data Analysis
+
 - [Model Building.ipynb](https://github.com/jason-huynh83/Toronto_Restaurant_Predictions/blob/master/Model%20Building.ipynb): Model Building
+
 - [data_clean.py](https://github.com/jason-huynh83/Toronto_Restaurant_Predictions/blob/master/data_clean.py): Python file for data cleaning
+
 -[yelp_scraper.py](https://github.com/jason-huynh83/Toronto_Restaurant_Predictions/blob/master/yelp_scraper.py): Python file for scraping 1000 restaurants on yelp
+
 - [yelp_foods.csv](https://github.com/jason-huynh83/Toronto_Restaurant_Predictions/blob/master/yelp_foods.csv): csv files for yelp restaurant data
 
 # Code and Resources Used
