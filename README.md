@@ -1,7 +1,7 @@
 # Toronto Restaurants Price Predictions Classification
 - Developed a classification machine learning model that will predict the price of Toronto Restaurants **(F1-Score: 0.75 or 75%)**. This project was intended for people who want to explore the different cultures and restaurants the wonderful city of Toronto has to offer
 - Utilized Python and BeautifulSoup to scrape 1000 restaurants and restaurant information from Yelp, you can find the scarping code [here](https://github.com/jason-huynh83/Toronto_Restaurant_Predictions/blob/master/yelp_scraper.py)
-- The data was cleaned and ready to use for the machine learning algorithm
+- The data was cleaned and ready to use for the machine learning algorithms
 - Exploratory Data Analysis (EDA) was performed to help understand the data better and visualize the data at hand
 - The machine learning classification models that were used are:
   - K-Nearest Neighbours
@@ -38,7 +38,7 @@
 # Data Cleaning
 This part of the project took a great deal of time as there was a lot of cleaning that needed to be done in order to achieve clean data to feed into the machine learning model.
 - Parse out restaurant ratings
-- Change restaurant prices to inbtegers instead of strings ($$)
+- Change restaurant prices to integers instead of strings ($$)
 - Categorize the type of cuisine into 9 different categories
   - American
   - Asian
