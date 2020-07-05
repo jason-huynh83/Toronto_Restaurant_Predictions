@@ -21,7 +21,7 @@
 - [yelp_foods.csv](https://github.com/jason-huynh83/Toronto_Restaurant_Predictions/blob/master/yelp_foods.csv): csv files for yelp restaurant data
 
 # Code and Resources Used
-- Python: Version 3.8
+- Python: Version 3.7
 - Packages: Pandas, Numpy, Sklearn, Matplotlib, Seaborn, BeautifulSoup, Imblearn
 - [Yelp]('https://www.yelp.ca/search?find_desc=Restaurants&find_loc=Toronto%2C%20ON&start=0)
 
