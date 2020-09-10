@@ -24,6 +24,7 @@
 - Python: Version 3.7
 - Packages: Pandas, Numpy, Sklearn, Matplotlib, Seaborn, BeautifulSoup, Imblearn
 - [Yelp]('https://www.yelp.ca/search?find_desc=Restaurants&find_loc=Toronto%2C%20ON&start=0)
+- Scraper code referenced from [here](https://github.com/maddyhyc/Web-Scraping-Yelp-Main-Secondary-/blob/master/Web%20Scraping%20Yelp%20(Main%20%26%20Secondary).ipynb)
 
 # The Dataset
 - Rest_name: Name of the restaurant
